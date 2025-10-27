@@ -1,0 +1,8 @@
+*.o
+*.out
+*.pro.user
+bin/
+obj/
+*.a
+*.exe
+*.log
